@@ -1,0 +1,1 @@
+document.querySelector("#slides > div.titleMessage > div > p.sub.typed");
